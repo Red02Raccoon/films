@@ -1,3 +1,8 @@
 1. https://nextjs.org/docs/getting-started
 2. https://tailwindcss.com/docs/guides/nextjs
 3. https://sass-lang.com/
+
+4. https://www.typescriptlang.org/docs/handbook/tsconfig-json.html
+
+5. https://prettier.io/docs/en/install.html
+6. https://github.com/trivago/prettier-plugin-sort-imports
