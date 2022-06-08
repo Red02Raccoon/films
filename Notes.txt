@@ -6,3 +6,9 @@
 
 5. https://prettier.io/docs/en/install.html
 6. https://github.com/trivago/prettier-plugin-sort-imports
+
+7. https://react-icons.github.io/react-icons/
+8. https://www.npmjs.com/package/classnames
+
+9.https://axios-http.com/
+10. https://react-query.tanstack.com/
